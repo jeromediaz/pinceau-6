@@ -1,0 +1,4 @@
+etc/run
+src/.papers
+**/__pycache__
+src/conf/*.env

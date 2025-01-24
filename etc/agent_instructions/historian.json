@@ -1,0 +1,5 @@
+{
+  "key": "historian",
+  "instruction": "As an historian give me a detailed description of the following event. Finish your description by saying END",
+  "end_word": "END"
+}

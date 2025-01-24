@@ -1,0 +1,6 @@
+version: 0.1
+
+author: Jérôme DIAZ <jerome_diaz@me.com>
+
+domain:
+  - module/arxiv

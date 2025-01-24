@@ -1,0 +1,15 @@
+{
+    "auth": "/api/1.0/auth",
+    "dag": "/api/1.0/dag",
+    "data": "/api/1.0/data",
+    "status": [
+        {
+            "blueprint_name": "status_1",
+            "blueprint_kwargs": {"url_prefix": "/api/1.0/status"},
+            "params": {"version": 1}
+        }
+    ],
+    "users": "/api/1.0/users",
+    "menu": "/api/1.0/menu",
+    "models": "/api/1.0/models"
+}
